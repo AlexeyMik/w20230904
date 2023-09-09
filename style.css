@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "teddyru";
+    src: url("./fonts/teddy-bear.ttf");
+}
+body {
+    background-color: rgb(101, 191, 221);
+}
+h1 {
+    color:rgba(255, 0, 242, 0.984);
+}
+h2 {
+    color:blue;
+    font-family: 'teddyru';
+}
+h3{
+    color: rgb(165, 42, 91);
+}
+a {
+    color:rgba(79, 3, 75, 0.984);
+}
+
+.spec_f {
+    font-size: 0.8rem;
+    color:black
+}
+p {
+    color:rgb(5, 5, 129)
+}
